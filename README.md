@@ -11,7 +11,7 @@
 - 🎓 Systems Engineering student, passionate about **software engineering, data analysis, and AI**.  
 - 🌱 Currently exploring **cloud computing & scalable architectures**.  
 - 💡 I enjoy solving complex problems and building products that make an impact.  
-- 📫 Reach me at [LinkedIn] **www.linkedin.com/in/andrés-quiroga**.
+- 📫 Reach me at **www.linkedin.com/in/andrés-quiroga**.
 
 ---
 
