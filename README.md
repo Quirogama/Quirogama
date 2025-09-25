@@ -11,7 +11,7 @@
 - 🎓 Systems Engineering student, passionate about **software engineering, data analysis, and AI**.  
 - 🌱 Currently exploring **cloud computing & scalable architectures**.  
 - 💡 I enjoy solving complex problems and building products that make an impact.  
-- 📫 Reach me at **www.linkedin.com/in/andrés-quiroga**.
+- 📫 Reach me at [LinkedIn] **www.linkedin.com/in/andrés-quiroga**.
 
 ---
 
@@ -19,5 +19,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,angular,docker,aws,mysql," height="100" />
 </div>
+
+---
+
+### 👾 Fun Stuff – Pac-Man Contributions
+<picture>
+  <!-- Cuando configures tu fork, cambia 'quirogama/quirogama' por tu repo -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quirogama/quirogama/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quirogama/quirogama/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quirogama/quirogama/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
