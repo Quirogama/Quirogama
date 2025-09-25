@@ -22,7 +22,7 @@
 
 ---
 
-### 👾 Fun Stuff – Pac-Man Contributions
+### 👾 Pac-Man
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quirogama/quirogama/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quirogama/quirogama/output/pacman-contribution-graph.svg">
