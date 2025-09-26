@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrés Quiroga</h1>
-<h3 align="center">🚀 Full-Stack Developer & Data Analyst from Colombia</h3>
+<h1 align="center">👋 Hi, I'm Andrés Quiroga 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer & Data Analyst from Colombia 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quirogama&label=Profile%20views&color=0e75b6&style=flat" alt="quirogama" />
@@ -8,12 +8,26 @@
 ---
 
 ### 👨‍💻 About Me
+<table>
+  <tr>
+    <td>
+      
 - 🎓 Systems Engineering student, passionate about **software engineering, data analysis, and AI**.  
 - 🌱 Currently exploring **cloud computing & scalable architectures**.  
-- 💡 I enjoy solving complex problems and building products that make an impact.  
-- 📫 Reach me at **www.linkedin.com/in/andrés-quiroga**.
+- 💡 I enjoy solving complex problems and building products that make an impact.
+- 📄 You can see my resume [here](https://docs.google.com/document/d/1aSxf94aBCqDUGS638uprYEwUEGzH0rcrP2DuG0x42Ks/edit?usp=sharing).
+- 📫 Reach me at **www.linkedin.com/in/andrés-quiroga**.  
+
+    </td>
+    <td>
+      <img src="assets/ds gif.gif" width="200"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
+
 
 ### 🛠️ Languages & Tools
 <div align="center">
@@ -30,3 +44,8 @@
 </picture>
 
 ---
+
+<div align="center">
+  <p><i>The universe is, and we are.</i></p>
+  <img src="assets/ow gif.gif" width="80%"/>
+</div>
