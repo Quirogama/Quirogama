@@ -15,7 +15,7 @@
 - 🎓 Systems Engineering student, passionate about **software engineering, data analysis, and AI**.  
 - 🌱 Currently exploring **cloud computing & scalable architectures**.  
 - 💡 I enjoy solving complex problems and building products that make an impact.
-- 📄 You can see my resume [here](https://docs.google.com/document/d/1O94AHzKTIkmSBy1FlYf_6yjG_jrRAcsW--N2Kl_h3wQ/edit?usp=sharing).
+- 📄 <a href="assets/CV_Andrés_Quiroga.pdf" download>Download my resume</a>
 - 📫 Reach me at **https://www.linkedin.com/in/quirogama/**.  
 
     </td>
