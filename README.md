@@ -16,7 +16,7 @@
 - 🌱 Currently exploring **cloud computing & scalable architectures**.  
 - 💡  I enjoy solving complex problems and building products that make an impact.
 - 📫 Reach me at **https://www.linkedin.com/in/quirogama/**.
-- 📄 <a href="assets/CV_Andrés_Quiroga.pdf" download>Download my resume here</a>
+- 📄 <a href="assets/CV_Andrés_Quiroga.pdf" download>See my resume here</a>
 
     </td>
     <td>
