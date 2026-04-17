@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Andrés Quiroga 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer & Data Analyst from Colombia 🚀</h3>
+<h3 align="center">🚀 Full-Stack Developer from Colombia 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quirogama&label=Profile%20views&color=0e75b6&style=flat" alt="quirogama" />
@@ -47,5 +47,5 @@
 
 <div align="center">
   <p><i>The universe is, and we are.</i></p>
-  <img src="assets/ow gif.gif" width="80%"/>
+  <img src="assets/ow gif.gif" width="60%"/>
 </div>
